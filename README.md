@@ -33,9 +33,15 @@ The next questions ask about what (if any) prior experience you have. This class
 
 1. Programming (any languages/ frameworks)
 
+Just a little bit of Python
+
 2. Game development (any engine)
 
+N/A
+
 3. Unity
+
+N/A
 
 ### Programming & Game Development Concepts
 
