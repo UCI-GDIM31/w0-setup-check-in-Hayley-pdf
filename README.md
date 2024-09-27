@@ -6,7 +6,9 @@ This is the first GDIM31 assignment! This is not a test - just a way to make sur
 ## Introduction
 
 1. Tell me a little bit about yourself and your interest in games! Be sure to include your preferred name and pronouns, and talk a little bit about what games you like to play, why you’re taking the class, any prior experience you have with game development, and what kind of games you hope to build.
-qwrety
+
+Hi my name is Hayley and my pronouns are she/her. I like to play shooter and puzzle games
+
 2. Which of the following best describes your major? Please specify if not GDIM.  
 
     - [ ] Game Design & Interactive Media
