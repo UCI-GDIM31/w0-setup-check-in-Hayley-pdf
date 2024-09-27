@@ -54,13 +54,23 @@ For the next questions, a programming or game development concept is presented:
 
 1. Game design document
 
+N/A
+
 2. Scope management
+
+N/A
 
 3. Iteration
 
+N/A
+
 4. Object-Oriented programming
 
+N/A
+
 5. Model-View-Controller architecture
+
+N/A
 
 ## Complete!
 
