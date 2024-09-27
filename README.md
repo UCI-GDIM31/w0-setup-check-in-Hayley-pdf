@@ -7,7 +7,7 @@ This is the first GDIM31 assignment! This is not a test - just a way to make sur
 
 1. Tell me a little bit about yourself and your interest in games! Be sure to include your preferred name and pronouns, and talk a little bit about what games you like to play, why you’re taking the class, any prior experience you have with game development, and what kind of games you hope to build.
 
-Hi my name is Hayley and my pronouns are she/her. I like to play shooter and puzzle games
+Hi my name is Hayley and my pronouns are she/her. I like to play shooter and puzzle games, specifically I have been addicted to Overwatch 2 but I am trying to battle this and find a new game.I am taking the class because it is a requirement as a GDIM major but also I want to improve my coding skills with what little knowledege I do have. I have very beginner level experience with game development when I took a 2 week all girl summer program after my sophmore year of high school where we coded different types of projects like mazes, storygames, and flappybird. I really enjoyed it and I know as a game designer it is best to learn how to do a little bit of everything. I'm hoping to build story games that might reel in the older generation who currently criticize the whole gaming community.
 
 2. Which of the following best describes your major? Please specify if not GDIM.  
 
