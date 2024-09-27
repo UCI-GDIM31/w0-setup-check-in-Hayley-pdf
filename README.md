@@ -11,7 +11,7 @@ Hi my name is Hayley and my pronouns are she/her. I like to play shooter and puz
 
 2. Which of the following best describes your major? Please specify if not GDIM.  
 
-    - [ ] Game Design & Interactive Media
+    - [X] Game Design & Interactive Media
     - [ ] Computer Science or related major (CS, CSE, Data Science, Informatics, etc) (please specify)
     - [ ] Art-related major (please specify)
     - [ ] Undecided
