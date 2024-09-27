@@ -18,7 +18,12 @@ Hi my name is Hayley and my pronouns are she/her. I like to play shooter and puz
     - [ ] Other (please specify)
 
 3. What are you hoping to get out of this class?
+
+I am hoping to gain enough experience to comfortably code my own games and understand different coding languages like C#.
+
 4. What, if anything, are you nervous about for this class?
+
+I'm nervous about being able to keep up with my other classmates.
 
 ## Prior Experience
 
